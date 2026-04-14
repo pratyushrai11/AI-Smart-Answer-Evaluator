@@ -170,7 +170,7 @@ if show_keywords_btn:
         st.warning("Run evaluation first!")
 
 # ------------------ FOOTER ------------------
-st.markdown("<center>Made with ❤️ | AI NLP Project | 2026</center>", unsafe_allow_html=True)
+st.markdown("<center>Made with ❤️ by Pratyush Rai . All Rights Reserved @ 2026</center>", unsafe_allow_html=True)
 
 
 
